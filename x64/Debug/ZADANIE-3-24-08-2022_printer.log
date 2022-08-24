@@ -1,0 +1,6 @@
+﻿  ZADANIE-3-24-08-2022_printer.cpp
+C:\Users\profi\Documents\fishman_progect\ZADANIE-3-24-08-2022_printer\ZADANIE-3-24-08-2022_printer.cpp(109,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\profi\Documents\fishman_progect\ZADANIE-3-24-08-2022_printer\ZADANIE-3-24-08-2022_printer.cpp(110,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\profi\Documents\fishman_progect\ZADANIE-3-24-08-2022_printer\ZADANIE-3-24-08-2022_printer.cpp(112,26): warning C4305: аргумент: усечение из "int" в "char"
+C:\Users\profi\Documents\fishman_progect\ZADANIE-3-24-08-2022_printer\ZADANIE-3-24-08-2022_printer.cpp(112,19): warning C4309: аргумент: усечение константного значения
+  ZADANIE-3-24-08-2022_printer.vcxproj -> C:\Users\profi\Documents\fishman_progect\ZADANIE-3-24-08-2022_printer\x64\Debug\ZADANIE-3-24-08-2022_printer.exe
